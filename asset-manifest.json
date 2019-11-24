@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Cyberron/static/css/main.4336ffde.chunk.css",
-    "main.js": "/Cyberron/static/js/main.65161567.chunk.js",
-    "main.js.map": "/Cyberron/static/js/main.65161567.chunk.js.map",
+    "main.js": "/Cyberron/static/js/main.fb1923a1.chunk.js",
+    "main.js.map": "/Cyberron/static/js/main.fb1923a1.chunk.js.map",
     "runtime-main.js": "/Cyberron/static/js/runtime-main.7e45ee70.js",
     "runtime-main.js.map": "/Cyberron/static/js/runtime-main.7e45ee70.js.map",
-    "static/js/2.13694941.chunk.js": "/Cyberron/static/js/2.13694941.chunk.js",
-    "static/js/2.13694941.chunk.js.map": "/Cyberron/static/js/2.13694941.chunk.js.map",
+    "static/js/2.76ec05f8.chunk.js": "/Cyberron/static/js/2.76ec05f8.chunk.js",
+    "static/js/2.76ec05f8.chunk.js.map": "/Cyberron/static/js/2.76ec05f8.chunk.js.map",
     "index.html": "/Cyberron/index.html",
-    "precache-manifest.6377b45f51fbe3dce853945d8651ce24.js": "/Cyberron/precache-manifest.6377b45f51fbe3dce853945d8651ce24.js",
+    "precache-manifest.0f5af0e988e47fc48c55deefdfab38ce.js": "/Cyberron/precache-manifest.0f5af0e988e47fc48c55deefdfab38ce.js",
     "service-worker.js": "/Cyberron/service-worker.js",
     "static/css/main.4336ffde.chunk.css.map": "/Cyberron/static/css/main.4336ffde.chunk.css.map",
     "static/media/style.css": "/Cyberron/static/media/test.cf305766.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.7e45ee70.js",
-    "static/js/2.13694941.chunk.js",
+    "static/js/2.76ec05f8.chunk.js",
     "static/css/main.4336ffde.chunk.css",
-    "static/js/main.65161567.chunk.js"
+    "static/js/main.fb1923a1.chunk.js"
   ]
 }
