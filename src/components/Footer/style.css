@@ -1,0 +1,30 @@
+.footer {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px; 
+    background: rgba(0,0,0,.8); 
+    
+}
+
+.legalNav {
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+    margin-right: 170px;
+}
+
+/* .linkItem {
+  display: flex;
+  flex-direction: row;
+  background: red;
+  width: 600px;
+} */
+
+/* .legalLinks {
+    display: flex;
+    flex-direction: row;
+    background: red;
+    width: 500px;
+} */

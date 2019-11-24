@@ -1,0 +1,22 @@
+.banner {
+    height: 550px; 
+    background-image: url('../../images/test.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,1); 
+    display: flex;
+    justify-content: center;
+    z-index: -1;
+}
+
+.bannerText {
+    margin-top: 100px;
+    font-weight: bold;
+    height: 90px;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    color:rgb(224, 224, 224);
+    background: rgba(0, 0, 0, 0.35);
+    box-shadow: 0px 0px 10px 3px rgba(255, 255, 255, 0.5); 
+}

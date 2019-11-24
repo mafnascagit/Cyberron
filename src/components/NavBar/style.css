@@ -1,0 +1,41 @@
+.navContainer {
+    display: flex; 
+    flex-direction: row; 
+    align-items:center; 
+    justify-content: space-around; 
+    background-color: rgba(0,0,0, .88); 
+    font-weight: bold;
+    height: 55px; 
+    font-size: 25px; 
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px; 
+    font-size: .7em; 
+}
+
+.linkNames {
+    color: rgba(255,255,255, .8);
+}
+
+.linkNames:hover {
+    color: white; 
+    cursor: pointer; 
+    transition: 500ms ease-in-out;
+}
+
+.logSignText {
+    color: rgba(255,255,255, .8);
+    font-size: .7em; 
+}
+
+.logSignText:hover{
+    color: white; 
+    cursor: pointer; 
+    transition: 500ms ease-in-out;
+}
+
+
+
