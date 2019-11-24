@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cyberron/precache-manifest.8e258696b1a31f12d6d890464607a1e7.js"
+  "/Cyberron/precache-manifest.8c1f219fba66f99bd778933d2f6fee3e.js"
 );
 
 self.addEventListener('message', (event) => {
